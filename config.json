@@ -85,6 +85,10 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源",
       "detail": "https://cj.lzcaiji.com"
+     },
+    "mtzy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"  
     }
   }
 }
